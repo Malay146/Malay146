@@ -27,5 +27,5 @@ I love building things that are fast, functional, and visually pleasing.
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Malay146&show_icons=true&theme=tokyonight&hide_title=true)
 
