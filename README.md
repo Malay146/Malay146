@@ -25,11 +25,5 @@ I love building things that are fast, functional, and visually pleasing.
 - Turning ideas into real products  
 - Learning something new every day  
 
----
-
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Malay146&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400)
-
 
 
