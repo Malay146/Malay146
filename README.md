@@ -12,7 +12,6 @@ I love building things that are fast, functional, and visually pleasing.
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase)
 
 ---
 
